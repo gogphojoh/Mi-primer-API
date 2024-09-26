@@ -1,32 +1,139 @@
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/appsettings.Development.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/appsettings.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Mangas
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Mangas.deps.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Mangas.runtimeconfig.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Mangas.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Mangas.pdb
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Microsoft.OpenApi.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.csproj.AssemblyReference.cache
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.GeneratedMSBuildEditorConfig.editorconfig
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfoInputs.cache
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfo.cs
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.csproj.CoreCompileInputs.cache
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cs
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cache
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.Mangas.Microsoft.AspNetCore.StaticWebAssets.props
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.build.Mangas.props
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mangas.props
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mangas.props
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets.pack.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets.build.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/staticwebassets.development.json
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/scopedcss/bundle/Mangas.styles.css
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.csproj.CopyComplete
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/refint/Mangas.dll
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.pdb
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/Mangas.genruntimeconfig.cache
-/home/gogphojoh/Proyectos de Informatica/home/Mangas/obj/Debug/net7.0/ref/Mangas.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/appsettings.json
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Mangas.exe
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Mangas.deps.json
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Mangas.runtimeconfig.json
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ALEX/Documents/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.csproj.AssemblyReference.cache
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfoInputs.cache
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfo.cs
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.csproj.CoreCompileInputs.cache
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.Mangas.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.build.Mangas.props
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mangas.props
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mangas.props
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/scopedcss/bundle/Mangas.styles.css
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.csproj.Up2Date
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/refint/Mangas.dll
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/Mangas.genruntimeconfig.cache
+C:/Users/ALEX/Documents/Mangas/obj/Debug/net7.0/ref/Mangas.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/appsettings.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Mangas.exe
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Mangas.deps.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Mangas.runtimeconfig.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.csproj.AssemblyReference.cache
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfoInputs.cache
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfo.cs
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.csproj.CoreCompileInputs.cache
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.Mangas.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.build.Mangas.props
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mangas.props
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mangas.props
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/scopedcss/bundle/Mangas.styles.css
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.csproj.Up2Date
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/refint/Mangas.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/Mangas.genruntimeconfig.cache
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/obj/Debug/net7.0/ref/Mangas.dll
+C:/Users/ALEX/Downloads/WebActividad1P1-main/Mangas/bin/Debug/net7.0/Infraestructure/Data/javerages.library.data.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/appsettings.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Infraestructure/Data/javerages.library.data.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Mangas.exe
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Mangas.deps.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Mangas.runtimeconfig.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.csproj.AssemblyReference.cache
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfoInputs.cache
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfo.cs
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.csproj.CoreCompileInputs.cache
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.Mangas.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.build.Mangas.props
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mangas.props
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mangas.props
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/scopedcss/bundle/Mangas.styles.css
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.csproj.Up2Date
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/refint/Mangas.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.pdb
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/Mangas.genruntimeconfig.cache
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/obj/Debug/net7.0/ref/Mangas.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/ALEX/Downloads/Actividad2_AWOS-main/Mangas/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/appsettings.Development.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/appsettings.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Infraestructure/Data/javerages.library.data.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Mangas
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Mangas.deps.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Mangas.runtimeconfig.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Mangas.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Mangas.pdb
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/AutoMapper.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.csproj.AssemblyReference.cache
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.GeneratedMSBuildEditorConfig.editorconfig
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfoInputs.cache
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.AssemblyInfo.cs
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.csproj.CoreCompileInputs.cache
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cs
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.MvcApplicationPartsAssemblyInfo.cache
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.Mangas.Microsoft.AspNetCore.StaticWebAssets.props
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.build.Mangas.props
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mangas.props
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mangas.props
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets.pack.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets.build.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/staticwebassets.development.json
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/scopedcss/bundle/Mangas.styles.css
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.csproj.CopyComplete
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/refint/Mangas.dll
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.pdb
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/Mangas.genruntimeconfig.cache
+/home/gogphojoh/Tareas/Actividad3_AWOSNUGGET-main/Mangas/obj/Debug/net7.0/ref/Mangas.dll

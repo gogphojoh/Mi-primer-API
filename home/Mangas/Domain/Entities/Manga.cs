@@ -1,9 +1,14 @@
-namespace mangas.Domain.Entities;
+using System.Diagnostics.CodeAnalysis;
 
-public class Manga
+namespace Mangas.Domain.Entities;
+
+public class Manga 
 {
-    public int Id { get; set;}
-    public required string Title {get; set;}
-    public required string Author {get; set;}
-    public DateTime PublicationDate {get; set;}
+    public int Id {get;set;}
+
+    public required string Title {get;set;}
+
+    public required string Author {get;set;}
+
+    public DateTime PublicationDate {get;set;}
 }
